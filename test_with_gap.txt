@@ -1,0 +1,6 @@
+# Edge Case 2: A long idle gap
+# PID, ArrivalTime, BurstTime, Priority
+P1, 0, 3, 2
+P2, 2, 4, 1
+# No arrivals from t=6 to t=20
+P3, 20, 5, 3

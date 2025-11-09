@@ -1,0 +1,7 @@
+# Edge Case 1: All processes arrive at t=0
+# PID, ArrivalTime, BurstTime, Priority
+P1, 0, 8, 3
+P2, 0, 4, 1
+P3, 0, 9, 2
+P4, 0, 5, 1
+P5, 0, 2, 4
